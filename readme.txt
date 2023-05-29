@@ -11,9 +11,4 @@ activeImage = $(this)
 => 
 activeImage = -1;
 
-Restant à faire:
-
-- Tout le SEO;
-- Encore beaucoup de choses à optimiser;
-- Afficher un carrousel d'image qui marche dans le portfolio;
-- Ajouter les balises meta;
+Tout les scores sont maintenant égaux ou proche de 100, le site est optimisé à son maximum.
